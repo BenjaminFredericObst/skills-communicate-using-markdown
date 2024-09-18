@@ -3,3 +3,6 @@
 ``` javascript
 print('Hello Cat')
 ```
+- [ ] Cat
+- [ ] Cat food
+- [ ] Cat toys
